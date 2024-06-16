@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Full-Stack
 - 🌱 I’m currently learning M.E.R.N stack
 - 👯 I’m looking to collaborate on Full-Stack projects
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 
 <table>
   <tr style="border: none;">
