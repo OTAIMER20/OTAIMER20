@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm OTAIMER
 
 🎯 Back-End Developer  
-🚀 Currently learning the **M.E.R.N** stack  
+🚀 Currently learning the **P.E.R.N** stack  
 🤝 Open to collaborating on Back-End projects  
 
 ---
