@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - Back-End developer specialized in **Node.js + TypeScript**  
-- Currently studying **Networking & Infrastructure** (CCNA / CCNP SP)  
+- Currently studying **Networking & Infrastructure**  
 - Building solid projects for portfolio with a focus on architecture and best practices  
 - Open to collaborations in APIs, microservices and distributed systems  
 
@@ -22,19 +22,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/OTAIMER20">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OTAIMER20&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" />
-</a>
-
-<a href="https://github.com/OTAIMER20">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAIMER20&layout=compact&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
