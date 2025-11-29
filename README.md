@@ -22,6 +22,9 @@
 
 ## 📊 GitHub Stats
 
+<!-- You can add stats here later if needed -->
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -32,6 +35,7 @@
 ### 🔹 Back-End  
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![Fastify](https://skillicons.dev/icons?i=fastify)
 
 ### 🔹 Front-End  
 ![React](https://skillicons.dev/icons?i=react)
