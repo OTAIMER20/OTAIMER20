@@ -22,7 +22,18 @@
 
 ## 📊 GitHub Stats
 
-<!-- You can add stats here later if needed -->
+<div align="center">
+
+<!-- Main GitHub Stats -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=OTAIMER20&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- Streak Stats -->
+<img height="160" src="https://streak-stats.demolab.com?user=OTAIMER20&theme=tokyonight&hide_border=true" />
+
+<!-- Top Languages -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAIMER20&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -35,7 +46,7 @@
 ### 🔹 Back-End  
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![Fastify](https://skillicons.dev/icons?i=fastify)
+<img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-landscape.svg" width="65" alt="Fastify"/>
 
 ### 🔹 Front-End  
 ![React](https://skillicons.dev/icons?i=react)
